@@ -32,7 +32,7 @@ A simple dice rolling app built with **Flutter**. Tap the dice to roll and get r
 1. Clone the repo:
    ```bash
    git clone https://github.com/Yoni-Berihun/dicee-flutter.git
-````
+   ```
 
 2. Navigate into the project folder:
 
@@ -52,7 +52,6 @@ A simple dice rolling app built with **Flutter**. Tap the dice to roll and get r
    flutter run
    ```
 
----
 
 ## Project Structure
 
@@ -81,8 +80,8 @@ dicee-flutter/
 ## License
 
 This project is open source and free to use.
+## Made With 😊 by @yoni-berihun
 
-```
 
 
 
