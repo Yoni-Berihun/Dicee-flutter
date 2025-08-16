@@ -14,9 +14,9 @@ A simple dice rolling app built with **Flutter**. Tap the dice to roll and get r
 
 ---
 
-## Screenshots
+## Screenshot of the project
 
-*(Add your screenshots here)*
+![App Screenshot](image.png) 
 
 ---
 
@@ -81,6 +81,7 @@ dicee-flutter/
 
 This project is open source and free to use.
 ## Made With 😊 by @yoni-berihun
+
 
 
 
