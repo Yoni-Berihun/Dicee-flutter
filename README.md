@@ -1,6 +1,4 @@
-Perfect! Here’s a **complete beginner-friendly README.md** for your `dicee-flutter` repo:
 
-````markdown
 # Dicee Flutter App 🎲
 
 A simple dice rolling app built with **Flutter**. Tap the dice to roll and get random numbers between 1 and 6. This project is perfect for beginners to learn **Stateful widgets**, **setState()**, **GestureDetector**, and **asset management** in Flutter.
@@ -85,5 +83,6 @@ dicee-flutter/
 This project is open source and free to use.
 
 ```
+
 
 
